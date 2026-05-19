@@ -48,4 +48,4 @@ while True:
 
     cur = selected['next']
 
-    print("\nИгра завершена!")
+print("\nИгра завершена!")
