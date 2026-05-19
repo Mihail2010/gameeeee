@@ -1,6 +1,6 @@
 import json
 
-with open('Загрузки/game_j.json', 'r', encoding='utf-8') as f:
+with open('game_j.json', 'r', encoding='utf-8') as f:
     game = json.load(f)
 
 inventory = []
